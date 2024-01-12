@@ -1,0 +1,6 @@
+        <div class="col-md-4">
+            <image src="Images/innerview.gif" width="80%" style="border-radius:20%;">
+                <br />
+                2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit amet justo. Nisl vel pretium lectus quam id leo in. Feugiat vivamus at augue eget. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Viverra justo nec ultrices dui sapien eget mi. Quam adipiscing vitae proin sagittis nisl rhoncus mattis. Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Netus et malesuada fames ac turpis egestas. Suspendisse interdum consectetur libero id faucibus. In cursus turpis massa tincidunt. Arcu bibendum at varius vel pharetra.
+                Felis donec et odio pellentesque diam volutpat commodo. At quis risus sed vulputate odio ut enim blandit. Ac feugiat sed lectus vestibulum mattis. Aliquet lectus proin nibh nisl condimentum. Dictum at tempor commodo ullamcorper. Ut tortor pretium viverra suspendisse potenti nullam ac tortor. Vitae tortor condimentum lacinia quis vel eros donec. Non pulvinar neque laoreet suspendisse interdum. 
+        </div>

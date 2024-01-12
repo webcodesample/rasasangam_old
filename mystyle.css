@@ -1,0 +1,40 @@
+body {
+    height:100%;
+    margin:0px;
+    background-color:bisque;
+}
+
+.bg {
+    background-image:url("Images/bg.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.divbg {
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.topbanner {
+    height: 200px;
+    width: 100%;
+    padding: 50px 50px ;
+    background-image: url("Images/bg.jpg");
+    background-position: center;
+    background-color: #ffffff;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+}
+
+.navbgsocial{
+    background-color:#FAA843;
+}
